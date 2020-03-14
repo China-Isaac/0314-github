@@ -6,6 +6,8 @@ public class Main {
         Test1 test1=new Test1();
         test1.name="3";
         System.out.println(test1.name);
+
+        System.out.println(test1.name+"第一分支");
     }
 
     // 第一次修改！
